@@ -1,2 +1,2 @@
-# RecyclerViewWithRxJava
+# KotlinRecyclerViewWithRxJava
 Model view viewmodel
