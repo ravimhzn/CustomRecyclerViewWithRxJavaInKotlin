@@ -1,2 +1,2 @@
-# MVVM_Test
+# RecyclerViewWithRxJava
 Model view viewmodel
